@@ -184,10 +184,11 @@ merged_inventory = {}
 # =============================================================================
 
 # =============================================================================
-# Get all unique product IDs dynamically using and "|"
+# Get all unique product IDs dynamically using or "|" it means union of both the sets
 # =============================================================================
 
 all_product_ids = set(warehouse_a.keys()) | set( warehouse_b.keys())
+# all_product_ids =  set(warehouse_a.keys()).union(set(warehouse_b.keys()))
 print(all_product_ids)
 
 
