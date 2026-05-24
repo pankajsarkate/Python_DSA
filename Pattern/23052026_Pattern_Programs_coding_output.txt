@@ -1,0 +1,180 @@
+l Nested Loop Patterns.py"
+Assignment: Master-Level Nested Loop Patterns
+Objective: Develop structural debugging skills, spatial matrix mapping, and loop iteration logic. Solve all
+20 problems below using optimized nested for loops. Avoid using built-in string multiplication tricks (like 
+"*" * n) to maximize logic building.
+1. Solid Square Grid
+
+Expected Terminal Output
+****
+****
+****
+****
+
+Output
+****
+****
+****
+****
+----------------------------------------
+2. Right-Angled Triangle
+
+Expected Terminal Output
+*
+**
+***
+****
+
+Output
+*
+**
+***
+****
+----------------------------------------
+3. Inverted Right-Angled Triangle
+
+Expected Terminal Output
+****
+***
+**
+*
+
+Output
+****
+***
+**
+*
+----------------------------------------
+4. Mirrored Right-Angled Triangle
+
+Expected Terminal Output
+   *
+  **
+ ***
+****
+
+Output
+   *
+  **
+ ***
+****
+----------------------------------------
+5. Inverted Mirrored Right Triangle
+
+Expected Terminal Output
+****
+ ***
+  **
+   *
+
+Output
+****
+ ***
+  **
+   *
+----------------------------------------
+9. The Full Classic Pyramid
+
+Expected Terminal Output
+   *
+  ***
+ *****
+*******
+
+Output
+   *
+  ***
+ *****
+*******
+----------------------------------------
+10. Inverted Classic Pyramid
+
+Expected Terminal Output
+*******
+ *****
+  ***
+   *
+
+Output
+*******
+ *****
+  ***
+   *
+----------------------------------------
+11. The Diamond Star Configuration
+
+Expected Terminal Output
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+
+Output
+   *
+  ***
+ *****
+*******
+*******
+ *****
+  ***
+   *
+----------------------------------------
+12. Hollow Square Frame
+
+Expected Terminal Output
+****
+*  *
+*  *
+****
+
+Output
+****
+*  *
+*  *
+****
+----------------------------------------
+16. Horizontal Double Triangle (Arrow)
+
+Expected Terminal Output
+*
+**
+***
+****
+***
+**
+*
+
+Output
+*
+**
+***
+****
+***
+**
+*
+
+----------------------------------------
+19. Hourglass Matrix Layout
+
+Expected Terminal Output
+*******
+ *****
+  ***
+   *
+  ***
+ *****
+*******
+
+Output
+*******
+ *****
+  ***
+   *
+   *
+  ***
+ *****
+*******
+----------------------------------------
